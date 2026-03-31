@@ -36,3 +36,4 @@ Jika URL Google Apps Script berubah, set:
 - `VITE_APPS_SCRIPT_URL`
 
 Kalau tidak diisi, app tetap memakai URL Apps Script yang ada saat ini.
+ 
